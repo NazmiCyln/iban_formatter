@@ -1,7 +1,7 @@
 name: iban_formatter
-description: "A new Flutter package project."
+description: You can use it to format IBANs
 version: 0.0.1
-homepage:
+homepage: https://github.com/NazmiCyln
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
