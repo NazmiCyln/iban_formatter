@@ -1,6 +1,6 @@
 name: iban_formatter
 description: You can use it to format IBANs
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/NazmiCyln
 repository: https://github.com/NazmiCyln/iban_formatter
 
