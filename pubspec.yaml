@@ -2,6 +2,7 @@ name: iban_formatter
 description: You can use it to format IBANs
 version: 0.0.1
 homepage: https://github.com/NazmiCyln
+repository: https://github.com/NazmiCyln/iban_formatter
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
